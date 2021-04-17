@@ -8,7 +8,6 @@ Tourism agency management program.
 
 ```git clone https://github.com/fpmi-tp2021/labrabota5-gr14-1-dream-team.git```
 
-```
 # Contribution
 
 Vladimir Parkhomenko<br/>
